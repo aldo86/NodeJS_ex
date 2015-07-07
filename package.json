@@ -1,0 +1,16 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Node and Express pdf",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1",
+    "express3-handlebars": "^0.5.2"
+  }
+}
